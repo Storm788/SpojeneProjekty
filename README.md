@@ -21,5 +21,5 @@ Tento program načítá otázky z databáze SQLite a spouští kvíz, ve kterém
 
 ## Poznámky
 - `**Databázový soubor**` musí být ve správném formátu.
-- `**Složka PredelanejProjektZCPP**` je výpomoc na kterou pak navazuji spojením projektů dohromady. jelikož jsem ten předchozí projekt dělal v CPP
+- **`Složka PredelanejProjektZCPP`** je výpomoc na kterou pak navazuji spojením projektů dohromady. jelikož jsem ten předchozí projekt dělal v CPP
 
