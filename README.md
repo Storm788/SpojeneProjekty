@@ -6,7 +6,7 @@ Tento program načítá otázky z databáze SQLite a spouští kvíz, ve kterém
 ## Požadavky
 - **Python**
 - **SQLite3 knihovna** (součást standardní knihovny Pythonu)
-- **Databázový soubor** `Pro3.db`, který obsahuje tabulku `Quiz` se sloupci **(vytvořený pomocí DB Browser [SQLite])**:
+- **Databázový soubor** `Pro3.db`, který obsahuje tabulku `Quiz` se sloupci **`(vytvořený pomocí DB Browser [SQLite])`**:
   - `Otazka` *(TEXT)* – Text otázky
   - `Odpoved1`, `Odpoved2`, `Odpoved3`, `Odpoved4` *(TEXT)* – Možnosti odpovědí
   - `SpravnaOd` *(INTEGER)* – Index správné odpovědi *(0–3)*
