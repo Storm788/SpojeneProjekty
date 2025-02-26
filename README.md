@@ -20,7 +20,4 @@ Tento program načítá otázky z databáze SQLite a spouští kvíz, ve kterém
 
 ## Poznámky
 - **Databázový soubor** musí být ve správném formátu.
-- Program očekává platný vstup od uživatele *(čísla 1–4).*
-- Pokud v databázi nejsou otázky, program zobrazí odpovídající zprávu.
-
 
