@@ -20,6 +20,6 @@ Tento program načítá otázky z databáze SQLite a spouští kvíz, ve kterém
 6. Po odpovědi se zobrazí výsledek a po dokončení všech otázek **celkové skóre**.
 
 ## Poznámky
-- **Databázový soubor** musí být ve správném formátu.
-- **Složka PredelanejProjektZCPP** je výpomoc na kterou pak navazuji spojením projektů dohromady. jelikož jsem ten předchozá projekt dělal v CPP
+- `**Databázový soubor**` musí být ve správném formátu.
+- `**Složka PredelanejProjektZCPP**` je výpomoc na kterou pak navazuji spojením projektů dohromady. jelikož jsem ten předchozí projekt dělal v CPP
 
