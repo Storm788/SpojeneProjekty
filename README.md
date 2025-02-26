@@ -13,10 +13,11 @@ Tento program načítá otázky z databáze SQLite a spouští kvíz, ve kterém
 
 ## Použití
 1. Ujistěte se, že máte soubor **`Pro3.db`** ve stejném adresáři jako skript.
-2. Otevřete si port na adrese http://localhost:1000/
-3. Program načte otázky z databáze a zobrazí je na serveru po kliknutí na tlačítko.
-4. Uživatel vybírá číslo odpovědi *(1–4).*
-5. Po odpovědi se zobrazí výsledek a po dokončení všech otázek **celkové skóre**.
+2. Ujistěte se, že jste zapnuli konzoli.
+3. Otevřete si port na adrese http://localhost:1000/
+4. Program načte otázky z databáze a zobrazí je na serveru po kliknutí na tlačítko.
+5. Uživatel vybírá číslo odpovědi *(1–4).*
+6. Po odpovědi se zobrazí výsledek a po dokončení všech otázek **celkové skóre**.
 
 ## Poznámky
 - **Databázový soubor** musí být ve správném formátu.
